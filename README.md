@@ -6,6 +6,7 @@ Models used are:
 - XGBoost
 - LightGBM
 - Bert Base Uncased
+- T5-Small (Havent Train Finish)
 
 | Model             | Accuracy |
 |-------------------|----------|
