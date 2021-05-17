@@ -6,10 +6,11 @@ Models used are:
 - XGBoost
 - LightGBM
 - Bert Base Uncased
-- T5-Small (Havent Train Finish)
+- T5-Small (Seemed to have better results for 1 epoch)
 
 | Model             | Accuracy |
 |-------------------|----------|
 | XGBoost           | 0.74     |
 | LightBGM          | 0.61     |
 | BERT Base Uncased | 0.88     |
+| T5-Small(1-Epoch) | 0.85     |
